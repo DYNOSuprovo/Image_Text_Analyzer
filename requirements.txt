@@ -1,3 +1,6 @@
+flask
+pytesseract
+gunicorn
 streamlit
 requests
 langchain_community
